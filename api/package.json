@@ -77,7 +77,7 @@
     "meteor-random": "^0.0.3",
     "migrate": "^1.6.2",
     "moment": "^2.18.1",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.35",
     "mongo-uri": "^0.1.2",
     "mongoose": "5.7.5",
     "mongoose-type-email": "^1.0.5",
